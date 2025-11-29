@@ -34,13 +34,6 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Why MIT License?**
-
-* ✅ Allows commercial and academic use without restrictions
-* ✅ Permits modification and distribution
-* ✅ Compatible with most other open-source licenses
-* ✅ Provides maximum flexibility for users while maintaining attribution
-
 Support
 -------
 
