@@ -1,0 +1,31 @@
+# Core dependencies for pyehicle
+pandas>=1.3.0
+numpy>=1.20.0
+scipy>=1.7.0
+pyproj>=3.0.0
+shapely>=1.8.0
+igraph>=0.9.0
+rtree>=0.9.0
+scikit-learn>=1.0.0
+osmium>=3.0.0
+folium>=0.12.0
+matplotlib>=3.3.0
+branca>=0.4.0
+requests>=2.25.0
+geopandas>=0.10.0
+pyrosm>=0.6.0
+polars>=0.15.0
+numba>=0.55.0
+leuvenmapmatching>=1.0.0
+osmnx>=1.1.0
+tqdm>=4.60.0
+
+# Development tools (not included in PyPI package)
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+isort>=5.10.0
+flake8>=4.0.0
+mypy>=0.950
+build>=1.0.0
+twine>=4.0.0
